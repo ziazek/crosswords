@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-require 'pry-byebug'
+# require 'pry-byebug'
 
 class Crossword
   CELL_WIDTH = 6 
@@ -94,7 +94,6 @@ class Crossword
       # loop until no more changes made
       break if changed == 0
     end  
-    # binding.pry
   end
 
   def drop_outer_x(ary)
@@ -125,7 +124,6 @@ class Crossword
       end
       @numbered_grid << r
     end
-    # binding.pry
   end
 
   def mark_boxes(ary)
