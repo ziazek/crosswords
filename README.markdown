@@ -99,7 +99,22 @@ run `bundle install`
 
 ## Understanding the Question
 
+- first attempt did not work
+- using the answer scheme to learn
+
 ## Results
+
+So far, created an intermediate stage where the outer X's are replaced with spaces and the boxes are numbered.
+```
+[[" ", "1", "_", "2", "3", " ", " "],
+ ["4", "_", "X", "5", "_", "6", "7"],
+ ["8", "_", "9", "_", " ", "10", "_"],
+ ["_", "X", "11", "_", " ", " ", " "],
+ ["12", "13", "_", "X", "14", "15", "_"],
+ [" ", "16", "_", "_", "_", "_", " "]]
+ ```
+
+Finished. A surprisingly difficult puzzle. Needed a lot of help from the answer scheme.
 
 ## Review
 
