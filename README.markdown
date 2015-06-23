@@ -135,6 +135,10 @@ output of an empty cell:
 
 Finished. A surprisingly difficult puzzle. Needed a lot of help from the answer scheme.
 
+Very useful methods learnt: 
+- Array#transpose
+- Kernel#sprintf
+
 ## Review
 
 ## License
